@@ -1,0 +1,16 @@
+{
+  "name": "laxjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ibrohim",
+  "license": "ISC",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap": "^5.3.2",
+    "lax.js": "^2.0.3"
+  }
+}
